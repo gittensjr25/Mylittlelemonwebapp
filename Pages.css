@@ -1,0 +1,7 @@
+.intro-section {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically */
+  text-align: center;      /* centers text */
+  padding: 0 10px;
+}
